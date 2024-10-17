@@ -2,6 +2,8 @@
 
 A basic Minecraft data pack & Fabric/Quilt mod that adds some uncrafting recipes to the game.
 
+*Also check out [Better Craftables](https://github.com/Classic36-Media/Better-Craftables)!*
+
 ## Downloads
 
 [![](https://img.shields.io/modrinth/dt/BLG002oq?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/better-uncraftables/)
@@ -32,4 +34,4 @@ Please open any support or feature requests [here on GitHub](https://github.com/
 	* Unpackable Wool
 	* Unpackable Ice
 
-Other contributors can be found [here](https://github.com/Classic36-Media/Better-Uncraftables/wiki/Credits).
+A full list of contributors can be found [here](https://github.com/Classic36-Media/Better-Uncraftables/wiki/Credits).
