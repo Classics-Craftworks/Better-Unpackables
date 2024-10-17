@@ -2,16 +2,16 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:wool_to_string"
+            "uncrafting:amethyst_block_to_shards"
         ]
     },
     "criteria": {
-        "has_wool": {
+        "has_amethyst": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "tag": "minecraft:wool"
+                        "item": "minecraft:amethyst_block"
                     }
                 ]
             }
@@ -19,13 +19,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:wool_to_string"
+                "recipe": "uncrafting:amethyst_block_to_shards"
             }
         }
     },
     "requirements": [
         [
-            "has_wool",
+            "has_amethyst",
             "has_recipe"
         ]
     ]

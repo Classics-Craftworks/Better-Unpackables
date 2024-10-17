@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:glowstone_block_to_dust"
+            "uncrafting:glowstone_block_to_dust"
         ]
     },
     "criteria": {
@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:glowstone_block_to_dust"
+                "recipe": "uncrafting:glowstone_block_to_dust"
             }
         }
     },

@@ -2,16 +2,16 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:amethyst_block_to_shards"
+            "uncrafting:deepslate_to_cobbled"
         ]
     },
     "criteria": {
-        "has_amethyst": {
+        "has_deepslate": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:amethyst_block"
+                        "item": "minecraft:deepslate"
                     }
                 ]
             }
@@ -19,13 +19,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:amethyst_block_to_shards"
+                "recipe": "uncrafting:deepslate_to_cobbled"
             }
         }
     },
     "requirements": [
         [
-            "has_amethyst",
+            "has_deepslate",
             "has_recipe"
         ]
     ]

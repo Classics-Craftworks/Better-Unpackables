@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "crafting:stone_to_cobble"
+            "uncrafting:stone_to_cobble"
         ]
     },
     "criteria": {
@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "crafting:stone_to_cobble"
+                "recipe": "uncrafting:stone_to_cobble"
             }
         }
     },
