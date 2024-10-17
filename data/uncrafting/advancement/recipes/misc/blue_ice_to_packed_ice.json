@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "uncrafting:blue_ice_to_packed_ice"
+        ]
+    },
+    "criteria": {
+        "has_wool": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "minecraft:blue_ice"
+                    }
+                ]
+            }
+        },
+        "has_blue_ice": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "uncrafting:blue_ice_to_packed_ice"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_blue_ice",
+            "has_recipe"
+        ]
+    ]
+}
