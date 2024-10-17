@@ -1,7 +1,7 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        "#minecraft:packed_ice"
+        "minecraft:packed_ice"
     ],
     "result": {
         "id": "minecraft:ice",
