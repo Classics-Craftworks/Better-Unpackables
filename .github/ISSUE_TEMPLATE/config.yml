@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Modrinth
+    url: https://modrinth.com/datapack/better-uncraftables
+    about: Better Uncraftables on Modrinth
+  - name: SpigotMC
+    url: https://www.spigotmc.org/resources/better-craftables.108728/
+    about: Better Uncraftables on SpigotMC

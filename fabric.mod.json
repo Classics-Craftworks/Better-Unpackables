@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "better_uncraftables",
+	"version": "1.0.0",
+	"name": "Better Uncraftables",
+	"description": "Adds some uncrafting recipes to the game!",
+	"authors": [
+		"Classic36"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/datapack/better-uncraftables",
+		"sources": "https://github.com/TheClassic36/Better-Uncraftables",
+		"issues": "https://github.com/TheClassic36/Better-Uncraftables/issues"
+	},
+
+	"license": "MIT",
+	"icon": "pack.png",
+	"environment": "*",
+	"depends": {
+		"fabric-resource-loader-v0":"*",
+		"minecraft":">=1.21.2"
+  }
+}

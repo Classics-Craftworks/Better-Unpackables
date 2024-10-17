@@ -1,0 +1,47 @@
+name: Bug Report
+description: File a bug report
+labels: ["Bug"]
+assignees:
+  - TheClassic36
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear and concise description of what the bug is.
+      placeholder: "Example: By putting 1 Amethyst Block into a crafting table, I cannot craft it back into 4 Amethyst Shards."
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: Which version of Better Uncraftables are you using? If it's not listed, please update!
+      options:
+        - v1.0.0-beta1
+    validations:
+      required: true
+  - type: textarea
+    id: mcversion
+    attributes:
+      label: Minecraft Version
+      description: Which version of Minecraft are you using?
+      placeholder: If using on a non-vanilla server, please type /version and paste the output here. If using in a vanilla setting, please type the Minecraft version here instead.
+    validations:
+      required: true
+  - type: textarea
+    id: modloaderversion
+    attributes:
+      label: Mod Loader Version
+      description: If running as a mod, which mod loader & Fabric API version are you using?
+      placeholder: "Example: Fabric Loader v0.16.7 with Fabric API v0.106.0 for Minecraft 1.21.1"
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+    validations:
+      required: false

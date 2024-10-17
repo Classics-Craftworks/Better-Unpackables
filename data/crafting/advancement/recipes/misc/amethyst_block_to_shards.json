@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "crafting:amethyst_block_to_shards"
+        ]
+    },
+    "criteria": {
+        "has_amethyst": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:amethyst_block"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crafting:amethyst_block_to_shards"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_amethyst",
+            "has_recipe"
+        ]
+    ]
+}
