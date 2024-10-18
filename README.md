@@ -2,7 +2,8 @@
 
 A basic Minecraft data pack & Fabric/Quilt mod that adds some uncrafting recipes to the game.
 
-*Also check out [Better Craftables](https://github.com/Classic36-Media/Better-Craftables)!*
+> [!TIP]
+> Want some better crafting recipes? Check out [Better Craftables](https://modrinth.com/datapack/better-craftables)!
 
 ## Downloads
 
@@ -16,13 +17,15 @@ Recipes in this data pack/mod can be found [here on the wiki](https://github.com
 
 ## Versions
 
-**For the mod version, [Fabric API](https://modrinth.com/mod/fabric-api) is required!**
+> [!IMPORTANT]
+> [Fabric API](https://modrinth.com/mod/fabric-api) is required for the mod version of Better Uncraftables!
+> Make sure to install the correct version for the version of Minecraft & Better Uncraftables you are using.
 
 | Minecraft Version | Better Uncraftables Version |
 | :--: | :--: |
 | 1.21.2 | [v1.0.0](https://github.com/Classic36-Media/Better-Uncraftables/releases/tag/v1.0.0) |
 
-Versions for older game versions and snapshots can be found [here](https://github.com/Classic36-Media/Better-Uncraftables/wiki/Versions).
+Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/Better-Uncraftables/wiki/Versions).
 
 ## Support & Feature Requests
 Please open any support or feature requests [here on GitHub](https://github.com/Classic36-Media/Better-Uncraftables/issues/new/choose) or on Discord:
