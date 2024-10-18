@@ -16,7 +16,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: Which version of Better Uncraftables are you using? If it's not listed, please update!
+      description: Which version of Better Unpackables are you using? If it's not listed, please update!
       options:
         - v1.0.0+mod
         - v1.0.0

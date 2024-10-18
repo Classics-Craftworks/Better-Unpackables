@@ -2,16 +2,16 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "uncrafting:deepslate_to_cobbled"
+            "unpacking:glowstone_block_to_dust"
         ]
     },
     "criteria": {
-        "has_deepslate": {
+        "has_glowstone": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:deepslate"
+                        "item": "minecraft:glowstone"
                     }
                 ]
             }
@@ -19,13 +19,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "uncrafting:deepslate_to_cobbled"
+                "recipe": "unpacking:glowstone_block_to_dust"
             }
         }
     },
     "requirements": [
         [
-            "has_deepslate",
+            "has_glowstone",
             "has_recipe"
         ]
     ]

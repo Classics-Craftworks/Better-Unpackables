@@ -2,30 +2,30 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "uncrafting:packed_ice_to_ice"
+            "unpacking:stone_to_cobble"
         ]
     },
     "criteria": {
-        "has_wool": {
+        "has_stone": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "tag": "minecraft:packed_ice"
+                        "item": "minecraft:stone"
                     }
                 ]
             }
         },
-        "has_packed_ice": {
+        "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "uncrafting:packed_ice_to_ice"
+                "recipe": "unpacking:stone_to_cobble"
             }
         }
     },
     "requirements": [
         [
-            "has_packed_ice",
+            "has_stone",
             "has_recipe"
         ]
     ]

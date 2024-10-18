@@ -2,18 +2,18 @@
   "schema_version": 1,
   "quilt_loader": {
     "group": "org.classic36media",
-    "id": "better_uncraftables",
+    "id": "better_unpackables",
     "version": "1.0.0",
     "metadata": {
-      "name": "Better Uncraftables",
-      "description": "Adds some uncrafting recipes to the game!",
+      "name": "Better Unpackables",
+      "description": "Adds some unpacking recipes to the game!",
       "contributors": {
         "Classic36": "Developer"
       },
       "contact": {
-        "homepage": "https://modrinth.com/datapack/better-uncraftables",
-        "sources": "https://github.com/TheClassic36/Better-Uncraftables",
-        "issues": "https://github.com/TheClassic36/Better-Uncraftables/issues"
+        "homepage": "https://modrinth.com/datapack/better-unpackables",
+        "sources": "https://github.com/TheClassic36/Better-Unpackables",
+        "issues": "https://github.com/TheClassic36/Better-Unpackables/issues"
       },
       "icon": "pack.png"
     },

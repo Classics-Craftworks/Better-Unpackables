@@ -2,30 +2,30 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "uncrafting:blue_ice_to_packed_ice"
+            "unpacking:amethyst_block_to_shards"
         ]
     },
     "criteria": {
-        "has_wool": {
+        "has_amethyst": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "tag": "minecraft:blue_ice"
+                        "item": "minecraft:amethyst_block"
                     }
                 ]
             }
         },
-        "has_blue_ice": {
+        "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "uncrafting:blue_ice_to_packed_ice"
+                "recipe": "unpacking:amethyst_block_to_shards"
             }
         }
     },
     "requirements": [
         [
-            "has_blue_ice",
+            "has_amethyst",
             "has_recipe"
         ]
     ]
