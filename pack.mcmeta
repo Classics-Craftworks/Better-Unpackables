@@ -2,6 +2,6 @@
 	"pack":{
 		"pack_format": 57,
 		"supported_formats": {"min_inclusive": 57, "max_inclusive": 57},
-		"description": "§bBetter Unpackables §7v1.0.0\n§fMinecraft 1.21.2"
+		"description": "§bBetter Unpackables §7v1.1.0\n§fMinecraft 1.21.2"
 	}
 }
