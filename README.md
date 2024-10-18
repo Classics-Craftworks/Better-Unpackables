@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/8iHYZfS.png)
+![image](https://i.imgur.com/f0qh2em.png)
 
 A basic Minecraft data pack & Fabric/Quilt mod that adds some unpacking recipes to the game.
 
