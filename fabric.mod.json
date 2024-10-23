@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "better_unpackables",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"name": "Better Unpackables",
 	"description": "Adds some unpacking recipes to the game!",
 	"authors": [
@@ -9,8 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/datapack/better-unpackables",
-		"sources": "https://github.com/TheClassic36/Better-Unpackables",
-		"issues": "https://github.com/TheClassic36/Better-Unpackables/issues"
+		"sources": "https://github.com/Classic36-Media/Better-Unpackables",
+		"issues": "https://github.com/Classic36-Media/Better-Unpackables/issues"
 	},
 
 	"license": "MIT",
