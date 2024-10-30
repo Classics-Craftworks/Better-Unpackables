@@ -1,7 +1,7 @@
 {
 	"pack":{
-		"pack_format": 57,
-		"supported_formats": {"min_inclusive": 57, "max_inclusive": 57},
-		"description": "§bBetter Unpackables §7v1.1.1\n§fMinecraft 1.21.2-1.21.3"
+		"pack_format": 58,
+		"supported_formats": {"min_inclusive": 58, "max_inclusive": 58},
+		"description": "§bBetter Unpackables\n§7v1.2.0-b1 §8/ §f1.21.4 Snapshots"
 	}
 }
