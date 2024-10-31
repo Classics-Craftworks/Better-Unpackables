@@ -6,7 +6,7 @@
         ]
     },
     "criteria": {
-        "has_wool": {
+        "has_blue_ice": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
@@ -16,7 +16,7 @@
                 ]
             }
         },
-        "has_blue_ice": {
+        "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
                 "recipe": "unpacking:blue_ice_to_packed_ice"
