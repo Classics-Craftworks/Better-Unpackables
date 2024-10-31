@@ -18,7 +18,7 @@ body:
       label: Version
       description: Which version of Better Unpackables are you using? If it's not listed, please update!
       options:
-        - v1.2.0-beta1
+        - v1.2.0-beta2
         - v1.1.2+mod
         - v1.1.2
     validations:
