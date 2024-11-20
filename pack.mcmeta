@@ -1,7 +1,7 @@
 {
 	"pack":{
-		"pack_format": 58,
-		"supported_formats": {"min_inclusive": 58, "max_inclusive": 60},
-		"description": "§bBetter Unpackables\n§7v1.2.0-b4 §8/ §f1.21.4 Snapshots"
+		"pack_format": 60,
+		"supported_formats": {"min_inclusive": 60, "max_inclusive": 60},
+		"description": "§bBetter Unpackables\n§7v1.2.0-b5 §8/ §f1.21.4 Snapshots"
 	}
 }

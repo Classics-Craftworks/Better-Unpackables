@@ -10,3 +10,7 @@ ACCEPTED SUGGESTIONS:
 babarsc
 - Wool to String recipe
 https://github.com/Classic36-Media/Better-Unpackables/issues/1
+
+trzejos
+- Quartz Block to Nether Quartz recipe
+https://github.com/Classic36-Media/Better-Unpackables/issues/2

@@ -18,7 +18,7 @@ body:
       label: Version
       description: Which version of Better Unpackables are you using? If it's not listed, please update!
       options:
-        - v1.2.0-beta4
+        - v1.2.0-beta5
         - v1.1.2+mod
         - v1.1.2
     validations:
@@ -36,7 +36,7 @@ body:
     attributes:
       label: Mod Loader Version
       description: If running as a mod, which mod loader & Fabric API version are you using?
-      placeholder: "Example: Fabric Loader v0.16.9 with Fabric API v0.108.0 for Minecraft 1.21.3"
+      placeholder: "Example: Fabric Loader v0.16.9 with Fabric API v0.109.0 for Minecraft 1.21.3"
     validations:
       required: false
   - type: textarea
