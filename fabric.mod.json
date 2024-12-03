@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "better_unpackables",
-	"version": "1.2.0-beta",
+	"version": "1.2.0",
 	"name": "Better Unpackables",
 	"description": "Adds some unpacking recipes to the game!",
 	"authors": [
