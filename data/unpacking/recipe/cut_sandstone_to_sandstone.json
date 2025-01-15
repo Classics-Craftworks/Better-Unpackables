@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "S"
+    ],
+    "key": {
+        "S": "minecraft:cut_sandstone"
+    },
+    "result": {
+        "id": "minecraft:sandstone",
+        "count": 4
+    }
+}
