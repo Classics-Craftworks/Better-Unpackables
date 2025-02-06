@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "unpacking:large_fern_to_fern"
+        ]
+    },
+    "criteria": {
+        "has_large_fern": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "minecraft:large_fern"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:large_fern_to_fern"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_large_fern",
+            "has_recipe"
+        ]
+    ]
+}
