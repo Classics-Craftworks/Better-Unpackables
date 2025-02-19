@@ -1,7 +1,7 @@
 {
 	"pack":{
 		"pack_format": 66,
-		"supported_formats": {"min_inclusive": 66, "max_inclusive": 67},
-		"description": "§bBetter Unpackables\n§7v1.3.0-b7 §8/ §f25w06a-25w07a"
+		"supported_formats": {"min_inclusive": 66, "max_inclusive": 68},
+		"description": "§bBetter Unpackables\n§7v1.3.0-b8 §8/ §f25w06a-25w08a"
 	}
 }
