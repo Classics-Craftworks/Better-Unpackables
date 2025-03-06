@@ -18,9 +18,9 @@ Recipes in this data pack/mod can be found [here on the wiki](https://github.com
 ## Versions
 
 > [!IMPORTANT]
-> [Fabric API](https://modrinth.com/mod/fabric-api) is required for the mod version of Better Unpackables!
+> [Fabric API](https://modrinth.com/mod/fabric-api) is required to run the mod version of Better Unpackables.
 >
-> Make sure to install the correct version of Fabric API for the version of Minecraft & Better Unpackables you are using.
+> Be sure to install the correct Fabric API version that matches your Minecraft and Better Unpackables versions.
 
 | Minecraft Version | Better Unpackables Version |
 | :--: | :--: |
