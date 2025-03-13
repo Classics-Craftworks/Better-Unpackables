@@ -41,3 +41,7 @@ Please open any support or feature requests [here on GitHub](https://github.com/
 	* Unpackable Ice
 
 A full list of contributors can be found [here](https://github.com/Classic36-Media/Better-Unpackables/wiki/Credits).
+
+***
+
+###### Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
