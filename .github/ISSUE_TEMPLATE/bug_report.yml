@@ -1,6 +1,7 @@
 name: Bug Report
 description: File a bug report
 labels: ["Bug"]
+type: Bug
 assignees:
   - TheClassic36
 body:
