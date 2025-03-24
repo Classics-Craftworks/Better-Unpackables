@@ -24,7 +24,7 @@ Recipes in this data pack/mod can be found [here on the wiki](https://github.com
 
 | Minecraft Version | Better Unpackables Version |
 | :--: | :--: |
-| 1.21.5-pre2 - 1.21.5-rc1 | [v2.0.0-pre1](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v2.0.0-pre1) |
+| 1.21.5-pre2 - 1.21.5-rc2 | [v2.0.0-pre1](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v2.0.0-pre1) |
 | 1.21.4 | [v1.2.0](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v1.2.0) |
 | 1.21.2 - 1.21.3 | [v1.1.2](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v1.1.2) |
 
