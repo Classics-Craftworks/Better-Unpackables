@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "minecraft:melon"
+    ],
+    "result": {
+        "id": "minecraft:melon_slice",
+        "count": 4
+    }
+}

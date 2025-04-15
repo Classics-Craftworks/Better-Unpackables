@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "unpacking:melon_to_slices"
+        ]
+    },
+    "criteria": {
+        "has_melon": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:melon"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:melon_to_slices"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_melon",
+            "has_recipe"
+        ]
+    ]
+}
