@@ -1,11 +1,8 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "B"
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "minecraft:quartz_block"
     ],
-    "key": {
-        "B": "minecraft:quartz_block"
-    },
     "result": {
         "id": "minecraft:quartz",
         "count": 4

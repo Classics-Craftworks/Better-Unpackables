@@ -1,11 +1,8 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "S"
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "minecraft:smooth_sandstone"
     ],
-    "key": {
-        "S": "minecraft:smooth_sandstone"
-    },
     "result": {
         "id": "minecraft:sandstone",
         "count": 1
