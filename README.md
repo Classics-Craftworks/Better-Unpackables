@@ -1,6 +1,6 @@
 ![image](https://i.imgur.com/f0qh2em.png)
 
-A basic Minecraft data pack & Fabric/Quilt mod that adds some unpacking recipes to the game.
+A Minecraft data pack and mod that adds some unpacking recipes to the game.
 
 > [!TIP]
 > Want some better crafting recipes? Check out [Better Craftables](https://modrinth.com/datapack/better-craftables)!
@@ -17,11 +17,6 @@ Recipes in this data pack/mod can be found [here on the wiki](https://github.com
 
 ## Versions
 
-> [!IMPORTANT]
-> [Fabric API](https://modrinth.com/mod/fabric-api) is required to run the mod version of Better Unpackables.
->
-> Be sure to install the correct Fabric API version that matches your Minecraft and Better Unpackables versions.
-
 | Minecraft Version | Better Unpackables Version |
 | :--: | :--: |
 | 1.21.5 - 25w18a | [v2.1.0-beta4](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v2.1.0-beta4) |
@@ -30,6 +25,18 @@ Recipes in this data pack/mod can be found [here on the wiki](https://github.com
 | 1.21.2 - 1.21.3 | [v1.1.2](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v1.1.2) |
 
 Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/Better-Unpackables/wiki/Versions).
+
+**Supported Mod Loaders:**
+
+* Fabric
+* Quilt
+* Forge
+* NeoForge
+
+> [!IMPORTANT]
+> [Fabric API](https://modrinth.com/mod/fabric-api) is required to run the mod version of Better Unpackables.
+>
+> Be sure to install the correct mod loader version that matches your Minecraft and Better Unpackables versions.
 
 ## Support & Feature Requests
 Please open any support or feature requests [here on GitHub](https://github.com/Classic36-Media/Better-Unpackables/issues/new/choose) or on Discord:
@@ -45,4 +52,4 @@ A full list of contributors can be found [here](https://github.com/Classic36-Med
 
 ***
 
-###### Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+**Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.**
