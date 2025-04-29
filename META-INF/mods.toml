@@ -1,0 +1,27 @@
+modLoader="lowcodefml"
+loaderVersion="[55,)"
+license="MIT"
+
+[[mods]]
+modId="better_unpackables"
+version="2.1.0-beta"
+displayName="Better Unpackables"
+logoFile="pack.png"
+displayURL="https://modrinth.com/datapack/better-unpackables"
+credits="https://github.com/Classic36-Media/Better-Unpackables/wiki/Credits"
+authors="Classic36"
+description="Adds some unpacking recipes to Minecraft!"
+
+[[dependencies.better_unpackables]]
+    modId="forge"
+    mandatory=true
+    versionRange="[55,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.better_unpackables]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21.5,)"
+    ordering="AFTER"
+    side="BOTH"
