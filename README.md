@@ -1,6 +1,6 @@
 ![image](https://i.imgur.com/f0qh2em.png)
 
-A Minecraft data pack and mod that adds some unpacking recipes to the game.
+A Minecraft data pack and mod that adds some quality-of-life unpacking recipes to the game.
 
 > [!TIP]
 > Want some better crafting recipes? Check out [Better Craftables](https://modrinth.com/datapack/better-craftables)!
@@ -11,9 +11,15 @@ A Minecraft data pack and mod that adds some unpacking recipes to the game.
 [![](https://img.shields.io/github/downloads/Classic36-Media/Better-Unpackables/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classic36-Media/Better-Unpackables/releases)
 [![](https://img.shields.io/spiget/downloads/120335?label=SpigotMC&style=for-the-badge&color=ED8106&logo=spigotmc)](https://www.spigotmc.org/resources/better-unpackables.120335/)
 
-## Recipes
+## Overview
 
-Recipes in this data pack/mod can be found [here on the wiki](https://github.com/Classic36-Media/Better-Unpackables/wiki/Unpacking-Recipes).
+Better Unpackables, available as a data pack, a Fabric/Quilt mod and a Forge/NeoForge mod, enhances the vanilla Minecraft experience with new recipes such as:
+
+* Amethyst Block -> Amethyst Shards
+* Wool -> String
+* Quartz Block -> Nether Quartz
+
+Check out the [Unpacking Recipes](https://github.com/Classic36-Media/Better-Unpackables/wiki/Unpacking-Recipes) page on the wiki for a full list!
 
 ## Versions
 
@@ -24,19 +30,10 @@ Recipes in this data pack/mod can be found [here on the wiki](https://github.com
 | 1.21.4 | [v1.2.0](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v1.2.0) |
 | 1.21.2 - 1.21.3 | [v1.1.2](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v1.1.2) |
 
-Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/Better-Unpackables/wiki/Versions).
-
-**Supported Mod Loaders:**
-
-* Fabric
-* Quilt
-* Forge
-* NeoForge
+Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/better-unpackables/versions) or [here on GitHub](https://github.com/Classic36-Media/Better-Unpackables/wiki/Versions).
 
 > [!IMPORTANT]
-> [Fabric API](https://modrinth.com/mod/fabric-api) is required to run the mod version of Better Unpackables.
->
-> Be sure to install the correct mod loader version that matches your Minecraft and Better Unpackables versions.
+> Make sure you download the correct version that matches your Minecraft version and mod loader if you are using Fabric or Forge. Please note that **[Fabric API](https://modrinth.com/mod/fabric-api) is required to run the Fabric/Quilt mod version** of Better Unpackables.
 
 ## Support & Feature Requests
 Please open any support or feature requests [here on GitHub](https://github.com/Classic36-Media/Better-Unpackables/issues/new/choose) or on Discord:
@@ -48,7 +45,7 @@ Please open any support or feature requests [here on GitHub](https://github.com/
 	* Unpackable Wool
 	* Unpackable Ice
 
-A full list of contributors can be found [here](https://github.com/Classic36-Media/Better-Unpackables/wiki/Credits).
+A full list of contributors is available [here](https://github.com/Classic36-Media/Better-Unpackables/wiki/Credits).
 
 ***
 
