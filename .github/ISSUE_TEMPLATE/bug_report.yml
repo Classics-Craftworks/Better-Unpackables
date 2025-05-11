@@ -3,7 +3,7 @@ description: File a bug report
 labels: ["Bug"]
 type: Bug
 assignees:
-  - TheClassic36
+  - Classsic36
 body:
   - type: textarea
     id: what-happened
