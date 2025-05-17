@@ -3,7 +3,7 @@ description: Submit a feature request
 labels: ["Enhancement"]
 type: Feature
 assignees:
-  - TheClassic36
+  - Classsic36
 body:
   - type: textarea
     id: what-is-it
