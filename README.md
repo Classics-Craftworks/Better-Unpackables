@@ -13,7 +13,7 @@ A Minecraft data pack and mod that adds some quality-of-life unpacking recipes t
 
 ## Overview
 
-Better Unpackables, available as a data pack, a Fabric/Quilt mod and a Forge/NeoForge mod, enhances the vanilla Minecraft experience with new recipes such as:
+Better Unpackables, available as a data pack and a Fabric, Quilt, Forge & NeoForge mod, enhances the vanilla Minecraft experience with new recipes such as:
 
 * Amethyst Block -> Amethyst Shards
 * Wool -> String
