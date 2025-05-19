@@ -7,10 +7,10 @@ https://vanillatweaks.net
 
 ACCEPTED SUGGESTIONS:
 
-babarsc
+babarsc (GitHub)
 - Wool to String recipe
 https://github.com/Classic36-Media/Better-Unpackables/issues/1
 
-trzejos
+trzejos (GitHub)
 - Quartz Block to Nether Quartz recipe
 https://github.com/Classic36-Media/Better-Unpackables/issues/2
