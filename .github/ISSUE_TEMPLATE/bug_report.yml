@@ -1,6 +1,5 @@
 name: Bug Report
 description: File a bug report
-labels: ["Bug"]
 type: Bug
 assignees:
   - Classsic36
@@ -42,7 +41,7 @@ body:
     attributes:
       label: Mod Loader Version
       description: If running as a mod, which mod loader & Fabric API version are you using?
-      placeholder: "Examples: 'Fabric Loader 0.16.14 with Fabric API 0.124.2 for Minecraft 1.21.5' or 'NeoForge 21.5.66 for Minecraft 1.21.5'"
+      placeholder: "Examples: 'Fabric Loader 0.16.14 with Fabric API 0.125.0 for Minecraft 1.21.5' or 'NeoForge 21.5.69 for Minecraft 1.21.5'"
     validations:
       required: false
   - type: textarea
