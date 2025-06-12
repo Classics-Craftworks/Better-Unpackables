@@ -25,7 +25,7 @@ Check out the [Unpacking Recipes](https://github.com/Classic36-Media/Better-Unpa
 
 | Minecraft Version | Better Unpackables Version |
 | :--: | :--: |
-| 1.21.5 - 1.21.6-pre4 | [v2.1.0-pre5](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v2.1.0-pre5) |
+| 1.21.5 - 1.21.6-rc1 | [v2.1.0-pre5](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v2.1.0-pre5) |
 | 1.21.5 | [v2.0.0](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v2.0.0) |
 | 1.21.4 | [v1.2.0](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v1.2.0) |
 | 1.21.2 - 1.21.3 | [v1.1.2](https://github.com/Classic36-Media/Better-Unpackables/releases/tag/v1.1.2) |
