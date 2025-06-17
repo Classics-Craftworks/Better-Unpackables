@@ -10,7 +10,7 @@ logoFile="pack.png"
 displayURL="https://modrinth.com/datapack/better-unpackables"
 credits="https://github.com/Classic36-Media/Better-Unpackables/wiki/Credits"
 authors="Classic36"
-description="Adds some unpacking recipes to Minecraft!"
+description="Adds some quality-of-life unpacking recipes to the game."
 
 [[dependencies.better_unpackables]]
     modId="forge"
