@@ -15,7 +15,7 @@ description="Adds some quality-of-life unpacking recipes to the game."
 [[dependencies.better_unpackables]]
     modId="neoforge"
     type="required"
-    versionRange="[21.5.0,)"
+    versionRange="[21.5.74,)"
     ordering="AFTER"
     side="BOTH"
 
