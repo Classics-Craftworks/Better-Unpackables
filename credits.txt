@@ -14,3 +14,7 @@ https://github.com/Classic36-Media/Better-Unpackables/issues/1
 trzejos (GitHub)
 - Quartz Block to Nether Quartz recipe
 https://github.com/Classic36-Media/Better-Unpackables/issues/2
+
+TheDarkPanther (GitHub)
+- Snow Block to Snowball recipe
+https://github.com/Classic36-Media/Better-Unpackables/issues/5

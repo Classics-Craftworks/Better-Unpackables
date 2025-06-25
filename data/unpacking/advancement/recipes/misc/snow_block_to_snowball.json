@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "unpacking:snow_block_to_snowball"
+        ]
+    },
+    "criteria": {
+        "has_snow_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:snow_block"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:snow_block_to_snowball"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_snow_block",
+            "has_recipe"
+        ]
+    ]
+}
