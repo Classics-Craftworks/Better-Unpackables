@@ -3,7 +3,7 @@
   "quilt_loader": {
     "group": "org.classic36media",
     "id": "better_unpackables",
-    "version": "2.2.0-beta",
+    "version": "2.2.0-pre",
     "metadata": {
       "name": "Better Unpackables",
       "description": "Adds some quality-of-life unpacking recipes to the game.",
