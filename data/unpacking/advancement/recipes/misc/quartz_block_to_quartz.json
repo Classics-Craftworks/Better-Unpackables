@@ -15,18 +15,11 @@
                     }
                 ]
             }
-        },
-        "has_recipe": {
-            "trigger": "minecraft:recipe_unlocked",
-            "conditions": {
-                "recipe": "unpacking:quartz_block_to_quartz"
-            }
         }
     },
     "requirements": [
         [
-            "has_quartz_block",
-            "has_recipe"
+            "has_quartz_block"
         ]
     ]
 }

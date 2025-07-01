@@ -15,18 +15,11 @@
                     }
                 ]
             }
-        },
-        "has_recipe": {
-            "trigger": "minecraft:recipe_unlocked",
-            "conditions": {
-                "recipe": "unpacking:wool_to_string"
-            }
         }
     },
     "requirements": [
         [
-            "has_wool",
-            "has_recipe"
+            "has_wool"
         ]
     ]
 }

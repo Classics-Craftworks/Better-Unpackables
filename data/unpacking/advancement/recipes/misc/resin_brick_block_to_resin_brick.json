@@ -15,18 +15,11 @@
                     }
                 ]
             }
-        },
-        "has_recipe": {
-            "trigger": "minecraft:recipe_unlocked",
-            "conditions": {
-                "recipe": "unpacking:resin_brick_block_to_resin_brick"
-            }
         }
     },
     "requirements": [
         [
-            "has_resin_brick_block",
-            "has_recipe"
+            "has_resin_brick_block"
         ]
     ]
 }

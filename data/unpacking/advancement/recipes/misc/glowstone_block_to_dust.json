@@ -15,18 +15,11 @@
                     }
                 ]
             }
-        },
-        "has_recipe": {
-            "trigger": "minecraft:recipe_unlocked",
-            "conditions": {
-                "recipe": "unpacking:glowstone_block_to_dust"
-            }
         }
     },
     "requirements": [
         [
-            "has_glowstone",
-            "has_recipe"
+            "has_glowstone"
         ]
     ]
 }

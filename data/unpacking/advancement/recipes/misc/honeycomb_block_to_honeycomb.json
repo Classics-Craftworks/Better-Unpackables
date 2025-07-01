@@ -15,18 +15,11 @@
                     }
                 ]
             }
-        },
-        "has_recipe": {
-            "trigger": "minecraft:recipe_unlocked",
-            "conditions": {
-                "recipe": "unpacking:honeycomb_block_to_honeycomb"
-            }
         }
     },
     "requirements": [
         [
-            "has_honeycomb_block",
-            "has_recipe"
+            "has_honeycomb_block"
         ]
     ]
 }

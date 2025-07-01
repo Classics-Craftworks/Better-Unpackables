@@ -15,18 +15,11 @@
                     }
                 ]
             }
-        },
-        "has_recipe": {
-            "trigger": "minecraft:recipe_unlocked",
-            "conditions": {
-                "recipe": "unpacking:stone_to_cobble"
-            }
         }
     },
     "requirements": [
         [
-            "has_stone",
-            "has_recipe"
+            "has_stone"
         ]
     ]
 }

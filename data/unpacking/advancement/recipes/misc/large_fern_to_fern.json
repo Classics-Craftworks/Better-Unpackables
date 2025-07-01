@@ -15,18 +15,11 @@
                     }
                 ]
             }
-        },
-        "has_recipe": {
-            "trigger": "minecraft:recipe_unlocked",
-            "conditions": {
-                "recipe": "unpacking:large_fern_to_fern"
-            }
         }
     },
     "requirements": [
         [
-            "has_large_fern",
-            "has_recipe"
+            "has_large_fern"
         ]
     ]
 }

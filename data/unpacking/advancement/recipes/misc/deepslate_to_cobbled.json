@@ -15,18 +15,11 @@
                     }
                 ]
             }
-        },
-        "has_recipe": {
-            "trigger": "minecraft:recipe_unlocked",
-            "conditions": {
-                "recipe": "unpacking:deepslate_to_cobbled"
-            }
         }
     },
     "requirements": [
         [
-            "has_deepslate",
-            "has_recipe"
+            "has_deepslate"
         ]
     ]
 }
