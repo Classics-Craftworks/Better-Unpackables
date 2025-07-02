@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "minecraft:music_disc_5"
+    ],
+    "result": {
+        "id": "minecraft:disc_fragment_5",
+        "count": 9
+    }
+}
