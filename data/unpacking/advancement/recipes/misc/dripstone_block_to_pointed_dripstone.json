@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:dripstone_block_to_pointed_dripstone"
+            }
         }
     },
     "requirements": [
         [
-            "has_dripstone_block"
+            "has_dripstone_block",
+            "has_recipe"
         ]
     ]
 }

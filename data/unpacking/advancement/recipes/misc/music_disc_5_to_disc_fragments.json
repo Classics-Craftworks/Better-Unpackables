@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:music_disc_5_to_disc_fragments"
+            }
         }
     },
     "requirements": [
         [
-            "has_disc"
+            "has_disc",
+            "has_recipe"
         ]
     ]
 }
