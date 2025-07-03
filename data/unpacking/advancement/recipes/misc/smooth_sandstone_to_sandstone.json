@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:smooth_sandstone_to_sandstone"
+            }
         }
     },
     "requirements": [
         [
-            "has_smooth_sandstone"
+            "has_smooth_sandstone",
+            "has_recipe"
         ]
     ]
 }

@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:melon_to_slices"
+            }
         }
     },
     "requirements": [
         [
-            "has_melon"
+            "has_melon",
+            "has_recipe"
         ]
     ]
 }

@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:tall_grass_to_short_grass"
+            }
         }
     },
     "requirements": [
         [
-            "has_tall_grass"
+            "has_tall_grass",
+            "has_recipe"
         ]
     ]
 }

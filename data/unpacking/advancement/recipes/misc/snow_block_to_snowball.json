@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:snow_block_to_snowball"
+            }
         }
     },
     "requirements": [
         [
-            "has_snow_block"
+            "has_snow_block",
+            "has_recipe"
         ]
     ]
 }

@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:chiseled_red_sandstone_to_red_sandstone_slabs"
+            }
         }
     },
     "requirements": [
         [
-            "has_chiseled_red_sandstone"
+            "has_chiseled_red_sandstone",
+            "has_recipe"
         ]
     ]
 }

@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:cut_sandstone_to_sandstone"
+            }
         }
     },
     "requirements": [
         [
-            "has_cut_sandstone"
+            "has_cut_sandstone",
+            "has_recipe"
         ]
     ]
 }

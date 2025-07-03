@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:clay_to_clay_ball"
+            }
         }
     },
     "requirements": [
         [
-            "has_clay"
+            "has_clay",
+            "has_recipe"
         ]
     ]
 }

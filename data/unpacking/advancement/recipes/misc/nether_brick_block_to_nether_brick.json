@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:nether_brick_block_to_nether_brick"
+            }
         }
     },
     "requirements": [
         [
-            "has_nether_brick_block"
+            "has_nether_brick_block",
+            "has_recipe"
         ]
     ]
 }

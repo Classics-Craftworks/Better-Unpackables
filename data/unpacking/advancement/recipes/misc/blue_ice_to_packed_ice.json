@@ -15,11 +15,18 @@
                     }
                 ]
             }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:blue_ice_to_packed_ice"
+            }
         }
     },
     "requirements": [
         [
-            "has_blue_ice"
+            "has_blue_ice",
+            "has_recipe"
         ]
     ]
 }
