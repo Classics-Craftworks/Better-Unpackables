@@ -2,6 +2,6 @@
 	"pack":{
 		"pack_format": 71,
 		"supported_formats": {"min_inclusive": 71, "max_inclusive": 81},
-		"description": "§bBetter Unpackables\n§7v2.3.0-beta1 §8/ §f1.21.5-1.21.7"
+		"description": "§bBetter Unpackables\n§7v2.3.0-beta2 §8/ §f1.21.5-1.21.7"
 	}
 }
