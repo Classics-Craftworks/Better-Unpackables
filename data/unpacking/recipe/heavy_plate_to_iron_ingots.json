@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "minecraft:heavy_weighted_pressure_plate"
+    ],
+    "result": {
+        "id": "minecraft:iron_ingot",
+        "count": 2
+    }
+}
