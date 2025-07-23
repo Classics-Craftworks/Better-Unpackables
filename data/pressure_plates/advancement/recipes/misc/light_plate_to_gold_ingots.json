@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "unpacking:heavy_plate_to_iron_ingots"
+            "pressure_plates:light_plate_to_gold_ingots"
         ]
     },
     "criteria": {
@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:heavy_weighted_pressure_plate"
+                        "item": "minecraft:light_weighted_pressure_plate"
                     }
                 ]
             }
@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:heavy_plate_to_iron_ingots"
+                "recipe": "unpacking:light_plate_to_gold_ingots"
             }
         }
     },
