@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "functional:pressure_plates/'light_plate_to_gold_ingots"
+            "functional:pressure_plates/light_plate_to_gold_ingots"
         ]
     },
     "criteria": {
