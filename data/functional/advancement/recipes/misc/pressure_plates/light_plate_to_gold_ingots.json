@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "pressure_plates:light_plate_to_gold_ingots"
+            "functional:pressure_plates/'light_plate_to_gold_ingots"
         ]
     },
     "criteria": {
@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:light_plate_to_gold_ingots"
+                "recipe": "functional:pressure_plates/light_plate_to_gold_ingots"
             }
         }
     },

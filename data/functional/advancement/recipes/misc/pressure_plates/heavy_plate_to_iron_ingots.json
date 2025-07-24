@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "pressure_plates:heavy_plate_to_iron_ingots"
+            "functional:pressure_plates/heavy_plate_to_iron_ingots"
         ]
     },
     "criteria": {
@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "pressure_plates:heavy_plate_to_iron_ingots"
+                "recipe": "functional:pressure_plates/heavy_plate_to_iron_ingots"
             }
         }
     },
