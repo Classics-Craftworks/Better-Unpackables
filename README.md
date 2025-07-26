@@ -7,6 +7,8 @@ A Minecraft data pack and mod that adds some quality-of-life unpacking recipes t
 
 ## Downloads
 
+Better Unpackables is only available on the platforms listed below. Please be aware that downloading it from any other source could result in an altered or potentially malicious version of the data pack/mod.
+
 [![](https://img.shields.io/modrinth/dt/bUmlsA7b?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/better-unpackables/)
 [![](https://img.shields.io/github/downloads/Classic36-Media/Better-Unpackables/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classic36-Media/Better-Unpackables/releases)
 [![](https://img.shields.io/spiget/downloads/120335?label=SpigotMC&style=for-the-badge&color=ED8106&logo=spigotmc)](https://www.spigotmc.org/resources/better-unpackables.120335/)
