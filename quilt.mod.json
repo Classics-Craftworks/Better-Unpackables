@@ -3,7 +3,7 @@
   "quilt_loader": {
     "group": "org.classic36media",
     "id": "better_unpackables",
-    "version": "2.4.0-beta",
+    "version": "3.0.0-beta",
     "metadata": {
       "name": "Better Unpackables",
       "description": "Adds some quality-of-life unpacking recipes to the game.",
@@ -26,7 +26,7 @@
       },
       {
         "id": "minecraft",
-        "versions": ">=1.21.5 <=1.21.8"
+        "versions": "1.21.9"
       }
     ]
   }

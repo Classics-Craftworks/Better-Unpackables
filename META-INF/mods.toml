@@ -1,10 +1,10 @@
 modLoader="lowcodefml"
-loaderVersion="[55,)"
+loaderVersion="[59,)"
 license="MIT"
 
 [[mods]]
 modId="better_unpackables"
-version="2.4.0-beta"
+version="3.0.0-beta"
 displayName="Better Unpackables"
 logoFile="pack.png"
 displayURL="https://modrinth.com/datapack/better-unpackables"
@@ -15,13 +15,13 @@ description="Adds some quality-of-life unpacking recipes to the game."
 [[dependencies.better_unpackables]]
     modId="forge"
     mandatory=true
-    versionRange="[55,)"
+    versionRange="[59,)"
     ordering="AFTER"
     side="BOTH"
 
 [[dependencies.better_unpackables]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.21.5,1.21.8]"
+    versionRange="[1.21.9]"
     ordering="AFTER"
     side="BOTH"
