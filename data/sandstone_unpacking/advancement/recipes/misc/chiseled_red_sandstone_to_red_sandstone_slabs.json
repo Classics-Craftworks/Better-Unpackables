@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "unpacking:chiseled_red_sandstone_to_red_sandstone_slabs"
+            "sandstone_unpacking:chiseled_red_sandstone_to_red_sandstone_slabs"
         ]
     },
     "criteria": {
@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:chiseled_red_sandstone_to_red_sandstone_slabs"
+                "recipe": "sandstone_unpacking:chiseled_red_sandstone_to_red_sandstone_slabs"
             }
         }
     },

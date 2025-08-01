@@ -2,16 +2,16 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "unpacking:smooth_sandstone_to_sandstone"
+            "sandstone_unpacking:red_sandstone_to_red_sand"
         ]
     },
     "criteria": {
-        "has_smooth_sandstone": {
+        "has_red_sandstone": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:smooth_sandstone"
+                        "item": "minecraft:red_sandstone"
                     }
                 ]
             }
@@ -19,13 +19,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:smooth_sandstone_to_sandstone"
+                "recipe": "sandstone_unpacking:red_sandstone_to_red_sand"
             }
         }
     },
     "requirements": [
         [
-            "has_smooth_sandstone",
+            "has_red_sandstone",
             "has_recipe"
         ]
     ]

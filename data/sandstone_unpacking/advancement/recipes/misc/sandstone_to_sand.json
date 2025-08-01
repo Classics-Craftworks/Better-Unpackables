@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "unpacking:sandstone_to_sand"
+            "sandstone_unpacking:sandstone_to_sand"
         ]
     },
     "criteria": {
@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:sandstone_to_sand"
+                "recipe": "sandstone_unpacking:sandstone_to_sand"
             }
         }
     },
