@@ -1,5 +1,6 @@
 {
     "type": "crafting_shapeless",
+    "group": "smooth_sandstone",
     "ingredients": [
         "minecraft:smooth_sandstone"
     ],

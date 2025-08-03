@@ -1,5 +1,6 @@
 {
     "type": "crafting_shapeless",
+    "group": "cut_sandstone",
     "ingredients": [
         "minecraft:cut_sandstone"
     ],
