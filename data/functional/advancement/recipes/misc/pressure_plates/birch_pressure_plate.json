@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "functional:pressure_plates/birch_pressure_plate"
+        ]
+    },
+    "criteria": {
+        "has_plate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:birch_pressure_plate"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "functional:pressure_plates/birch_pressure_plate"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_plate",
+            "has_recipe"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "wooden_pressure_plate_unpacking",
+    "ingredients": [
+        "minecraft:acacia_pressure_plate"
+    ],
+    "result": {
+        "id": "minecraft:acacia_planks",
+        "count": 2
+    }
+}

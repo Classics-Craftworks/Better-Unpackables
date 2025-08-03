@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "wooden_pressure_plate_unpacking",
+    "ingredients": [
+        "minecraft:warped_pressure_plate"
+    ],
+    "result": {
+        "id": "minecraft:warped_planks",
+        "count": 2
+    }
+}

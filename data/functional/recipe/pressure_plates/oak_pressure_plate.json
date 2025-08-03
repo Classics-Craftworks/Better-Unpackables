@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "wooden_pressure_plate_unpacking",
+    "ingredients": [
+        "minecraft:oak_pressure_plate"
+    ],
+    "result": {
+        "id": "minecraft:oak_planks",
+        "count": 2
+    }
+}
