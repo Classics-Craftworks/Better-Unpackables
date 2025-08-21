@@ -9,12 +9,12 @@ ACCEPTED SUGGESTIONS:
 
 babarsc (GitHub)
 - Wool to String recipe
-https://github.com/Classic36-Media/Better-Unpackables/issues/1
+https://github.com/Classics-Craftworks/Better-Unpackables/issues/1
 
 trzejos (GitHub)
 - Quartz Block to Nether Quartz recipe
-https://github.com/Classic36-Media/Better-Unpackables/issues/2
+https://github.com/Classics-Craftworks/Better-Unpackables/issues/2
 
 TheDarkPanther (GitHub)
 - Snow Block to Snowball recipe
-https://github.com/Classic36-Media/Better-Unpackables/issues/5
+https://github.com/Classics-Craftworks/Better-Unpackables/issues/5
