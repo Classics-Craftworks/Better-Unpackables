@@ -27,7 +27,7 @@ Check out the [Unpacking Recipes](https://github.com/Classics-Craftworks/Better-
 
 | Minecraft Version | Better Unpackables Version |
 | :--: | :--: |
-| 25w36a | [v3.0.0-pre2](https://github.com/Classics-Craftworks/Better-Unpackables/releases/tag/v3.0.0-pre2) |
+| 25w36a - 25w36b | [v3.0.0-pre2](https://github.com/Classics-Craftworks/Better-Unpackables/releases/tag/v3.0.0-pre2) |
 | 1.21.5 - 1.21.8 | [v2.3.1](https://github.com/Classics-Craftworks/Better-Unpackables/releases/tag/v2.3.1) |
 | 1.21.4 | [v1.2.0](https://github.com/Classics-Craftworks/Better-Unpackables/releases/tag/v1.2.0) |
 | 1.21.2 - 1.21.3 | [v1.1.2](https://github.com/Classics-Craftworks/Better-Unpackables/releases/tag/v1.1.2) |
