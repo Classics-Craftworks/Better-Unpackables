@@ -10,7 +10,6 @@ A Minecraft data pack and mod that adds some quality-of-life unpacking recipes t
 Better Unpackables is only available on the platforms listed below. Please be aware that downloading it from any other source could result in an altered or potentially malicious version of the data pack/mod.
 
 [![](https://img.shields.io/modrinth/dt/bUmlsA7b?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/better-unpackables/)
-[![](https://img.shields.io/github/downloads/Classics-Craftworks/Better-Unpackables/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classics-Craftworks/Better-Unpackables/releases)
 [![](https://img.shields.io/spiget/downloads/120335?label=SpigotMC&style=for-the-badge&color=ED8106&logo=spigotmc)](https://www.spigotmc.org/resources/better-unpackables.120335/)
 
 ## Overview
@@ -20,6 +19,8 @@ Better Unpackables, available as a data pack and a Fabric, Quilt, Forge & NeoFor
 * Amethyst Block -> Amethyst Shards
 * Wool -> String
 * Quartz Block -> Nether Quartz
+* Packed Ice -> Ice
+* Smooth Sandstone -> Sandstone
 
 Check out the [Unpacking Recipes](https://github.com/Classics-Craftworks/Better-Unpackables/wiki/Unpacking-Recipes) page on the wiki for a full list!
 
@@ -27,10 +28,10 @@ Check out the [Unpacking Recipes](https://github.com/Classics-Craftworks/Better-
 
 | Minecraft Version | Better Unpackables Version |
 | :--: | :--: |
-| 25w36a - 1.21.9-pre1 | [v3.0.0-pre3](https://github.com/Classics-Craftworks/Better-Unpackables/releases/tag/v3.0.0-pre3) |
-| 1.21.5 - 1.21.8 | [v2.3.1](https://github.com/Classics-Craftworks/Better-Unpackables/releases/tag/v2.3.1) |
-| 1.21.4 | [v1.2.0](https://github.com/Classics-Craftworks/Better-Unpackables/releases/tag/v1.2.0) |
-| 1.21.2 - 1.21.3 | [v1.1.2](https://github.com/Classics-Craftworks/Better-Unpackables/releases/tag/v1.1.2) |
+| 25w36a - 1.21.9-pre1 | [v3.0.0-pre3](https://modrinth.com/datapack/better-unpackables/version/v3.0.0-pre3) |
+| 1.21.5 - 1.21.8 | [v2.3.1](https://modrinth.com/datapack/better-unpackables/version/v2.3.1) |
+| 1.21.4 | [v1.2.0](https://modrinth.com/datapack/better-unpackables/version/v1.2.0) |
+| 1.21.2 - 1.21.3 | [v1.1.2](https://modrinth.com/datapack/better-unpackables/version/v1.1.2) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/better-unpackables/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Better-Unpackables/wiki/Versions).
 
