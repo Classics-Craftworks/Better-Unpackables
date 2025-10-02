@@ -18,6 +18,6 @@
 	"environment": "*",
 	"depends": {
 		"fabric-resource-loader-v0": "*",
-		"minecraft": "1.21.9"
+		"minecraft": ">=1.21.9 <=1.21.10"
   }
 }
