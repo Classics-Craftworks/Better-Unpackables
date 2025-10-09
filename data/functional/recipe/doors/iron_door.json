@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "minecraft:iron_door"
+    ],
+    "result": {
+        "id": "minecraft:iron_ingot",
+        "count": 2
+    }
+}

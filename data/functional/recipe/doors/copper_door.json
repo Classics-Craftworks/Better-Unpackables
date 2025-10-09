@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "#functional:copper_doors"
+    ],
+    "result": {
+        "id": "minecraft:copper_ingot",
+        "count": 2
+    }
+}

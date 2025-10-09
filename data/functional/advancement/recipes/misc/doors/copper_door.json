@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "functional:doors/copper_door"
+        ]
+    },
+    "criteria": {
+        "has_door": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "functional:copper_doors"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "functional:doors/copper_door"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_door",
+            "has_recipe"
+        ]
+    ]
+}
