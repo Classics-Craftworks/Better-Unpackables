@@ -1,6 +1,6 @@
 {
     "type": "crafting_shapeless",
-    "group": "wooden_pressure_plate_unpacking",
+    "group": "wooden_item_unpacking",
     "ingredients": [
         "minecraft:spruce_pressure_plate"
     ],
