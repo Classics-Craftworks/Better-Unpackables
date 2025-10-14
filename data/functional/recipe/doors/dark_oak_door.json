@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "wooden_item_unpacking",
+    "ingredients": [
+        "minecraft:dark_oak_door"
+    ],
+    "result": {
+        "id": "minecraft:dark_oak_planks",
+        "count": 2
+    }
+}

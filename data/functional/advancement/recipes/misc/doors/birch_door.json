@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "functional:doors/birch_door"
+        ]
+    },
+    "criteria": {
+        "has_door": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:birch_door"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "functional:doors/birch_door"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_door",
+            "has_recipe"
+        ]
+    ]
+}

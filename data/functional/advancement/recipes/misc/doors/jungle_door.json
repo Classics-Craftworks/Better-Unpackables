@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "functional:doors/jungle_door"
+        ]
+    },
+    "criteria": {
+        "has_door": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:jungle_door"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "functional:doors/jungle_door"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_door",
+            "has_recipe"
+        ]
+    ]
+}

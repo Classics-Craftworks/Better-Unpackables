@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "wooden_item_unpacking",
+    "ingredients": [
+        "minecraft:acacia_door"
+    ],
+    "result": {
+        "id": "minecraft:acacia_planks",
+        "count": 2
+    }
+}
