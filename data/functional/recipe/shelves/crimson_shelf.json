@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "shelf_unpacking",
+    "ingredients": [
+        "minecraft:crimson_shelf"
+    ],
+    "result": {
+        "id": "minecraft:stripped_crimson_stem",
+        "count": 1
+    }
+}

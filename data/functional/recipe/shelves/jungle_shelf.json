@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "shelf_unpacking",
+    "ingredients": [
+        "minecraft:jungle_shelf"
+    ],
+    "result": {
+        "id": "minecraft:stripped_jungle_log",
+        "count": 1
+    }
+}

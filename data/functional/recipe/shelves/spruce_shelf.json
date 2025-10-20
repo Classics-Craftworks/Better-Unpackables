@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "shelf_unpacking",
+    "ingredients": [
+        "minecraft:spruce_shelf"
+    ],
+    "result": {
+        "id": "minecraft:stripped_spruce_log",
+        "count": 1
+    }
+}

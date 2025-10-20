@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "shelf_unpacking",
+    "ingredients": [
+        "minecraft:acacia_shelf"
+    ],
+    "result": {
+        "id": "minecraft:stripped_acacia_log",
+        "count": 1
+    }
+}

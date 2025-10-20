@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "functional:doors/dark_oak_shelf"
+        ]
+    },
+    "criteria": {
+        "has_shelf": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:dark_oak_shelf"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "functional:shelves/dark_oak_shelf"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_shelf",
+            "has_recipe"
+        ]
+    ]
+}

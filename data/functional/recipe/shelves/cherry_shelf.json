@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "shelf_unpacking",
+    "ingredients": [
+        "minecraft:cherry_shelf"
+    ],
+    "result": {
+        "id": "minecraft:stripped_cherry_log",
+        "count": 1
+    }
+}

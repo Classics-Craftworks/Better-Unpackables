@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "shelf_unpacking",
+    "ingredients": [
+        "minecraft:pale_oak_shelf"
+    ],
+    "result": {
+        "id": "minecraft:stripped_pale_oak_log",
+        "count": 1
+    }
+}
