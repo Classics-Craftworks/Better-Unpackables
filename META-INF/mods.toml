@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
 modId="better_unpackables"
-version="3.1.0"
+version="3.2.0-beta"
 displayName="Better Unpackables"
 logoFile="pack.png"
 displayURL="https://modrinth.com/datapack/better-unpackables"
@@ -22,6 +22,6 @@ description="Adds some quality-of-life unpacking recipes to the game."
 [[dependencies.better_unpackables]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.21.9,1.21.11]"
+    versionRange="[1.21.9,26.1]"
     ordering="AFTER"
     side="BOTH"
