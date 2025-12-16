@@ -31,8 +31,6 @@ Check out the [Unpacking Recipes](https://github.com/Classics-Craftworks/Better-
 | 1.21.9 - 26.1-snapshot-1 | [v3.2.0-beta1](https://modrinth.com/datapack/better-unpackables/version/v3.2.0-beta1) | N/A
 | 1.21.9 - 1.21.11 | [v3.1.0](https://modrinth.com/datapack/better-unpackables/version/v3.1.0) | [v3.1.0+mod](https://modrinth.com/datapack/better-unpackables/version/v3.1.0+mod) |
 | 1.21.5 - 1.21.8 | [v2.3.1](https://modrinth.com/datapack/better-unpackables/version/v2.3.1) | [v2.3.1+mod](https://modrinth.com/datapack/better-unpackables/version/v2.3.1+mod) |
-| 1.21.4 | [v1.2.0](https://modrinth.com/datapack/better-unpackables/version/v1.2.0) | [v1.2.0+mod](https://modrinth.com/datapack/better-unpackables/version/v1.2.0+mod) |
-| 1.21.2 - 1.21.3 | [v1.1.2](https://modrinth.com/datapack/better-unpackables/version/v1.1.2) | [v1.1.2+mod](https://modrinth.com/datapack/better-unpackables/version/v1.1.2+mod) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/better-unpackables/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Better-Unpackables/wiki/Versions).
 
