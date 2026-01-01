@@ -40,7 +40,7 @@ body:
     attributes:
       label: Mod Loader Version
       description: If running as a mod, which mod loader (and Fabric API version, if running Fabric/Quilt) are you using?
-      placeholder: "Examples: 'Fabric Loader 0.18.2 with Fabric API 0.139.5 for Minecraft 1.21.11' or 'NeoForge 21.11.8 for Minecraft 1.21.11'"
+      placeholder: "Examples: 'Fabric Loader 0.18.4 with Fabric API 0.140.2 for Minecraft 1.21.11' or 'NeoForge 21.11.17 for Minecraft 1.21.11'"
     validations:
       required: false
   - type: textarea
