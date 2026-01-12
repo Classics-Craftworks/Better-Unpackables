@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "wooden_item_unpacking",
+    "ingredients": [
+        "minecraft:mangrove_trapdoor"
+    ],
+    "result": {
+        "id": "minecraft:mangrove_planks",
+        "count": 3
+    }
+}

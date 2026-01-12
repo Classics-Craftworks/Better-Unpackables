@@ -2,10 +2,10 @@
     "type": "crafting_shapeless",
     "group": "iron_item_unpacking",
     "ingredients": [
-        "minecraft:iron_door"
+        "minecraft:iron_trapdoor"
     ],
     "result": {
         "id": "minecraft:iron_ingot",
-        "count": 2
+        "count": 4
     }
 }

@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "wooden_item_unpacking",
+    "ingredients": [
+        "minecraft:cherry_trapdoor"
+    ],
+    "result": {
+        "id": "minecraft:cherry_planks",
+        "count": 3
+    }
+}

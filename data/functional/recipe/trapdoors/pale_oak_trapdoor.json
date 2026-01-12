@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "wooden_item_unpacking",
+    "ingredients": [
+        "minecraft:pale_oak_trapdoor"
+    ],
+    "result": {
+        "id": "minecraft:pale_oak_planks",
+        "count": 3
+    }
+}

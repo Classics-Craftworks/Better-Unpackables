@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "functional:trapdoors/copper_trapdoor"
+        ]
+    },
+    "criteria": {
+        "has_trapdoor": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "functional:copper_trapdoors"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "functional:trapdoors/copper_trapdoor"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_trapdoor",
+            "has_recipe"
+        ]
+    ]
+}

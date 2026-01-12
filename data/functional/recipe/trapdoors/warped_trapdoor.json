@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "wooden_item_unpacking",
+    "ingredients": [
+        "minecraft:warped_trapdoor"
+    ],
+    "result": {
+        "id": "minecraft:warped_planks",
+        "count": 3
+    }
+}

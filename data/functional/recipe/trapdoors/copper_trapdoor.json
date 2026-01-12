@@ -2,10 +2,10 @@
     "type": "crafting_shapeless",
     "group": "copper_item_unpacking",
     "ingredients": [
-        "#functional:copper_doors"
+        "#functional:copper_trapdoors"
     ],
     "result": {
         "id": "minecraft:copper_ingot",
-        "count": 2
+        "count": 4
     }
 }

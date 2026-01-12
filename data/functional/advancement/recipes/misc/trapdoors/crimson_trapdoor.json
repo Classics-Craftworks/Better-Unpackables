@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "functional:trapdoors/crimson_trapdoor"
+        ]
+    },
+    "criteria": {
+        "has_trapdoor": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:crimson_trapdoor"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "functional:trapdoors/crimson_trapdoor"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_trapdoor",
+            "has_recipe"
+        ]
+    ]
+}
