@@ -1,5 +1,6 @@
 {
     "type": "crafting_shapeless",
+    "group": "polished_blackstone_item_unpacking",
     "ingredients": [
         "minecraft:polished_blackstone_pressure_plate"
     ],

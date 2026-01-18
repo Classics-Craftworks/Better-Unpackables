@@ -1,5 +1,6 @@
 {
     "type": "crafting_shapeless",
+    "group": "stone_item_unpacking",
     "ingredients": [
         "minecraft:stone_pressure_plate"
     ],
