@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "functional:buttons/birch_button"
+        ]
+    },
+    "criteria": {
+        "has_button": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:birch_button"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "functional:buttons/birch_button"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_button",
+            "has_recipe"
+        ]
+    ]
+}

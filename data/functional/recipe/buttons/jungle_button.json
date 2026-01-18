@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "wooden_item_unpacking",
+    "ingredients": [
+        "minecraft:jungle_button"
+    ],
+    "result": {
+        "id": "minecraft:jungle_planks",
+        "count": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "stone_item_unpacking",
+    "ingredients": [
+        "minecraft:stone_button"
+    ],
+    "result": {
+        "id": "minecraft:stone",
+        "count": 1
+    }
+}
