@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:bamboo_trapdoor"
+                        "items": "minecraft:bamboo_trapdoor"
                     }
                 ]
             }

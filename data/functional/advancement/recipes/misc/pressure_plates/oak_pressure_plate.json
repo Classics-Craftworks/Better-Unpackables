@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:oak_pressure_plate"
+                        "items": "minecraft:oak_pressure_plate"
                     }
                 ]
             }

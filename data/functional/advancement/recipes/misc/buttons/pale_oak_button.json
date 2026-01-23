@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:pale_oak_button"
+                        "items": "minecraft:pale_oak_button"
                     }
                 ]
             }

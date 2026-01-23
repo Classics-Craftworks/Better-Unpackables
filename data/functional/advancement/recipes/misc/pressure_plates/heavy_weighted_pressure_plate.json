@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:heavy_weighted_pressure_plate"
+                        "items": "minecraft:heavy_weighted_pressure_plate"
                     }
                 ]
             }

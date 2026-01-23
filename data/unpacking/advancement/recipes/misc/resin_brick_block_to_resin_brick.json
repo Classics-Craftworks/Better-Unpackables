@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:resin_bricks"
+                        "items": "minecraft:resin_bricks"
                     }
                 ]
             }

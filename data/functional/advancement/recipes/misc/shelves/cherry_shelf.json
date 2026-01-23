@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:cherry_shelf"
+                        "items": "minecraft:cherry_shelf"
                     }
                 ]
             }

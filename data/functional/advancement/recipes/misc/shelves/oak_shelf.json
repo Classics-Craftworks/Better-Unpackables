@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:oak_shelf"
+                        "items": "minecraft:oak_shelf"
                     }
                 ]
             }

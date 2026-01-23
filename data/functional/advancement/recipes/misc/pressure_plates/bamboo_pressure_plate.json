@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:bamboo_pressure_plate"
+                        "items": "minecraft:bamboo_pressure_plate"
                     }
                 ]
             }

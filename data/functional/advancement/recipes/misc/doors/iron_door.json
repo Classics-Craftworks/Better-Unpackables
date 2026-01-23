@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:iron_door"
+                        "items": "minecraft:iron_door"
                     }
                 ]
             }

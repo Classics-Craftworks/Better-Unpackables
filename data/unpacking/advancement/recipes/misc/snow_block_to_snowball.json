@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:snow_block"
+                        "items": "minecraft:snow_block"
                     }
                 ]
             }

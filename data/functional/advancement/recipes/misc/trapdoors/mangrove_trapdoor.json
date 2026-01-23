@@ -11,7 +11,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:mangrove_trapdoor"
+                        "items": "minecraft:mangrove_trapdoor"
                     }
                 ]
             }
