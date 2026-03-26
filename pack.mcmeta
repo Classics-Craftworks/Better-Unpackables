@@ -1,7 +1,7 @@
 {
 	"pack":{
-		"min_format": 88,
+		"min_format": 101,
 		"max_format": 101,
-		"description": "§bBetter Unpackables\n§7v3.2.0 §8/ §f1.21.9-26.1"
+		"description": "§bBetter Unpackables\n§7v4.0.0-p1 §8/ §f26.1"
 	}
 }
