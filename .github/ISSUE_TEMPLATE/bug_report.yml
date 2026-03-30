@@ -18,8 +18,8 @@ body:
       label: Version
       description: Which version of Better Unpackables are you using? If it's not listed, please consider updating!
       options:
-        - v4.0.0-pre.1
-        - v4.0.0-pre.1+mod
+        - v4.0.0
+        - v4.0.0+mod
         - v3.2.0
         - v3.2.0+mod
         - v3.1.0
@@ -39,7 +39,7 @@ body:
     attributes:
       label: Mod Loader Version
       description: If running as a mod, which mod loader (and Fabric API version, if running Fabric/Quilt) are you using?
-      placeholder: "Examples: 'Fabric Loader 0.18.5 with Fabric API 0.144.3 for Minecraft 26.1' or 'NeoForge 26.1.0.5 for Minecraft 26.1'"
+      placeholder: "Examples: 'Fabric Loader 0.18.5 with Fabric API 0.144.3 for Minecraft 26.1' or 'NeoForge 26.1.0.15'"
     validations:
       required: false
   - type: textarea
