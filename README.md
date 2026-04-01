@@ -28,7 +28,7 @@ Check out the [Unpacking Recipes](https://github.com/Classics-Craftworks/Better-
 
 | Minecraft Version | Data Pack Version | Mod Version |
 | :--: | :--: | :--: |
-| 26.1 | [v4.0.0](https://modrinth.com/datapack/better-unpackables/version/v4.0.0) | [v4.0.0+mod](https://modrinth.com/datapack/better-unpackables/version/v4.0.0+mod) |
+| 26.1 - 26.1.1 | [v4.0.0](https://modrinth.com/datapack/better-unpackables/version/v4.0.0) | [v4.0.1+mod](https://modrinth.com/datapack/better-unpackables/version/v4.0.1+mod) |
 | 1.21.9 - 1.21.11 | [v3.2.0](https://modrinth.com/datapack/better-unpackables/version/v3.2.0) | [v3.2.0+mod](https://modrinth.com/datapack/better-unpackables/version/v3.2.0+mod) |
 | 1.21.5 - 1.21.8 | [v2.3.1](https://modrinth.com/datapack/better-unpackables/version/v2.3.1) | [v2.3.1+mod](https://modrinth.com/datapack/better-unpackables/version/v2.3.1+mod) |
 
