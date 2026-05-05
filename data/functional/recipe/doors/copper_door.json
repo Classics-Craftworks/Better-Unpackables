@@ -1,6 +1,6 @@
 {
     "type": "crafting_shapeless",
-    "group": "copper_item_unpacking",
+    "group": "planks",
     "ingredients": [
         "#functional:copper_doors"
     ],
