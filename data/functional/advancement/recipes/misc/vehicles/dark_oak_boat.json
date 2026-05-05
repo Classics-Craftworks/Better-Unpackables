@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "functional:vehicles/dark_oak_boat"
+        ]
+    },
+    "criteria": {
+        "has_boat": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:dark_oak_boat"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "functional:vehicles/dark_oak_boat"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_boat",
+            "has_recipe"
+        ]
+    ]
+}
