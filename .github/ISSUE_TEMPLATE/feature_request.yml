@@ -12,3 +12,11 @@ body:
       placeholder: "Example: I would like a new crafting recipe to unpack Cobwebs. The recipe would be 1 Cobweb -> 5 String."
     validations:
       required: true
+  - type: checkboxes
+    id: pre-checks
+    attributes:
+      label: Before submitting
+      description: Please confirm the following before submitting your feature request.
+      options:
+        - label: I have checked the [Rejected Suggestions list](https://github.com/Classics-Craftworks/Better-Unpackables/wiki/Rejected-Suggestions) and my idea is not listed there.
+          required: true
