@@ -45,7 +45,6 @@ body:
     id: logs
     attributes:
       label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      description: Please upload any relevant logs to https://mclo.gs/ and paste the link here.
     validations:
       required: false
