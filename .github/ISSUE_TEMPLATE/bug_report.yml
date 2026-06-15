@@ -25,7 +25,7 @@ body:
         - v3.2.0+mod
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: mcversion
     attributes:
       label: Minecraft Version
@@ -33,7 +33,7 @@ body:
       placeholder: If using on a non-vanilla server, please type /version and paste the output here. If using in a vanilla setting, please type the Minecraft version here instead.
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: modloaderversion
     attributes:
       label: Mod Loader Version
@@ -41,7 +41,7 @@ body:
       placeholder: "Examples: 'Fabric Loader 0.19.3 with Fabric API 0.151.0 for Minecraft 26.1.2' or 'NeoForge 26.1.2.75'"
     validations:
       required: false
-  - type: textarea
+  - type: input
     id: logs
     attributes:
       label: Relevant log output
