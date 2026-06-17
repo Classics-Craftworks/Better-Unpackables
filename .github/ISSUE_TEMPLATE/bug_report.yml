@@ -4,6 +4,16 @@ type: Bug
 assignees:
   - Classsic36
 body:
+  - type: checkboxes
+    id: pre-checks
+    attributes:
+      label: Before submitting
+      description: Please confirm the following before submitting your bug report.
+      options:
+        - label: I have checked [open issues](https://github.com/Classics-Craftworks/Better-Unpackables/issues) and the bug has not already been reported.
+          required: true
+        - label: I have checked [closed issues](https://github.com/Classics-Craftworks/Better-Unpackables/issues?q=is%3Aissue%20state%3Aclosed) and the bug has not already been fixed.
+          required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -39,7 +49,7 @@ body:
     attributes:
       label: Mod Loader Version
       description: If running as a mod, which mod loader (and Fabric API version, if running Fabric/Quilt) are you using?
-      placeholder: "Examples: 'Fabric Loader 0.19.3 with Fabric API 0.152.1 for Minecraft 26.2' or 'NeoForge 26.2.0.0'"
+      placeholder: "Examples: 'Fabric Loader 0.19.3 with Fabric API 0.152.1 for Minecraft 26.2' or 'NeoForge 26.2.0.1'"
     validations:
       required: false
   - type: input
