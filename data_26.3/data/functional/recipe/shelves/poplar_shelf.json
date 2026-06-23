@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "shelf_unpacking",
+    "ingredients": [
+        "minecraft:poplar_shelf"
+    ],
+    "result": {
+        "id": "minecraft:stripped_poplar_log",
+        "count": 6
+    }
+}
