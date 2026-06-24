@@ -1,6 +1,6 @@
 ![image](https://i.postimg.cc/rmkdNyg6/BU_Final_Header.png)
 
-A Minecraft data pack and mod that adds some quality-of-life unpacking recipes to the game.
+A Minecraft data pack and mod that adds some quality-of-life unpacking & reversible recipes to the game.
 
 > [!TIP]
 > Want some better crafting recipes? Check out [Better Craftables](https://modrinth.com/datapack/better-craftables)!
