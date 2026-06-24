@@ -3,6 +3,7 @@ CREDITS:
 Vanilla Tweaks
 - Unpackable Wool
 - Unpackable Ice
+- Back to Blocks (Stairs & Slabs)
 https://vanillatweaks.net
 
 ACCEPTED SUGGESTIONS:
@@ -18,3 +19,7 @@ https://github.com/Classics-Craftworks/Better-Unpackables/issues/2
 TheDarkPanther (GitHub)
 - Snow Block to Snowball recipe
 https://github.com/Classics-Craftworks/Better-Unpackables/issues/5
+
+CellAgglomerate (GitHub)
+- Slabs, Stairs & Walls back into blocks
+https://github.com/Classics-Craftworks/Better-Unpackables/issues/9
