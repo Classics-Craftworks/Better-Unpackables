@@ -1,0 +1,13 @@
+{
+	"result": {
+		"id": "minecraft:resin_bricks",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:resin_brick_wall",
+		"minecraft:resin_brick_wall",
+		"minecraft:resin_brick_wall"
+	],
+	"group": "walls_to_block"
+}

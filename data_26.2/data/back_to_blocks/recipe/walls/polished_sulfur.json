@@ -1,0 +1,13 @@
+{
+	"result": {
+		"id": "minecraft:polished_sulfur",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:polished_sulfur_wall",
+		"minecraft:polished_sulfur_wall",
+		"minecraft:polished_sulfur_wall"
+	],
+	"group": "walls_to_block"
+}

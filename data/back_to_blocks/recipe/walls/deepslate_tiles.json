@@ -1,0 +1,13 @@
+{
+	"result": {
+		"id": "minecraft:deepslate_tiles",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:deepslate_tile_wall",
+		"minecraft:deepslate_tile_wall",
+		"minecraft:deepslate_tile_wall"
+	],
+	"group": "walls_to_block"
+}

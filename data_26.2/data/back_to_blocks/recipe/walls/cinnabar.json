@@ -1,0 +1,13 @@
+{
+	"result": {
+		"id": "minecraft:cinnabar",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:cinnabar_wall",
+		"minecraft:cinnabar_wall",
+		"minecraft:cinnabar_wall"
+	],
+	"group": "walls_to_block"
+}

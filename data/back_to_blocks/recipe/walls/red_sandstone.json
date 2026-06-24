@@ -1,0 +1,13 @@
+{
+	"result": {
+		"id": "minecraft:red_sandstone",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:red_sandstone_wall",
+		"minecraft:red_sandstone_wall",
+		"minecraft:red_sandstone_wall"
+	],
+	"group": "walls_to_block"
+}

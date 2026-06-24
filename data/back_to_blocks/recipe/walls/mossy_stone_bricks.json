@@ -1,0 +1,13 @@
+{
+	"result": {
+		"id": "minecraft:mossy_stone_bricks",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:mossy_stone_brick_wall",
+		"minecraft:mossy_stone_brick_wall",
+		"minecraft:mossy_stone_brick_wall"
+	],
+	"group": "walls_to_block"
+}

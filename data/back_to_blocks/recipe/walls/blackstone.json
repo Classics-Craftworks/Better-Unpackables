@@ -1,0 +1,13 @@
+{
+	"result": {
+		"id": "minecraft:blackstone",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:blackstone_wall",
+		"minecraft:blackstone_wall",
+		"minecraft:blackstone_wall"
+	],
+	"group": "walls_to_block"
+}

@@ -1,0 +1,13 @@
+{
+	"result": {
+		"id": "minecraft:end_stone_bricks",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:end_stone_brick_wall",
+		"minecraft:end_stone_brick_wall",
+		"minecraft:end_stone_brick_wall"
+	],
+	"group": "walls_to_block"
+}
