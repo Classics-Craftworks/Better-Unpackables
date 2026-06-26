@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_stairs": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:pink_wool"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "back_to_blocks:stairs/pink_wool"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_stairs",
+			"has_the_recipe"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"back_to_blocks:stairs/pink_wool"
+		]
+	}
+}
