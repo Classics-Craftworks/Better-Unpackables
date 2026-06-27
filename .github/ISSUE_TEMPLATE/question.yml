@@ -1,0 +1,25 @@
+name: Question
+description: Ask a question
+type: Question
+assignees:
+  - Classsic36
+body:
+  - type: checkboxes
+    id: pre-checks
+    attributes:
+      label: Before submitting
+      description: Please confirm the following before submitting your question.
+      options:
+        - label: I have checked [issues](https://github.com/Classics-Craftworks/Better-Unpackables/issues) and the question has not already been asked.
+          required: true
+        - label: I have checked [the wiki](https://github.com/Classics-Craftworks/Better-Unpackables/wiki) and the question has not already been answered.
+          required: true
+        - label: This is not a bug report or a feature request.
+          required: true
+  - type: textarea
+    id: your-question
+    attributes:
+      label: What's your question?
+      description: Please be as clear and specific as possible so we can provide the best answer.
+    validations:
+      required: true
