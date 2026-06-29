@@ -2,7 +2,7 @@
 	"pack": {
 		"min_format": 101,
 		"max_format": 108,
-		"description": "§bBetter Unpackables\n§7v4.2.0-b4 §8/ §f26.1-26.3s1"
+		"description": "§bBetter Unpackables\n§7v4.2.0 §8/ §f26.1-26.3s1"
     },
     "overlays": {
         "entries": [
