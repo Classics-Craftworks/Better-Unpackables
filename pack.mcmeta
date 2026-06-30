@@ -1,20 +1,20 @@
 {
 	"pack": {
 		"min_format": 101,
-		"max_format": 108,
-		"description": "§bBetter Unpackables\n§7v4.3.0-b1 §8/ §f26.1-26.3s1"
+		"max_format": 109,
+		"description": "§bBetter Unpackables\n§7v4.3.0-b1 §8/ §f26.1-26.3s2"
     },
     "overlays": {
         "entries": [
             {
                 "directory": "data_26.2",
                 "min_format": 102,
-                "max_format": 108
+                "max_format": 109
             },
             {
                 "directory": "data_26.3",
                 "min_format": 108,
-                "max_format": 108
+                "max_format": 109
             }
         ]
     }
