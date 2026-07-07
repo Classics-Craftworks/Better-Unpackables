@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "minecraft:straw_bed",
+        "minecraft:straw_bed",
+        "minecraft:straw_bed",
+        "minecraft:straw_bed"
+    ],
+    "result": {
+        "id": "minecraft:hay_block",
+        "count": 3
+    }
+}
