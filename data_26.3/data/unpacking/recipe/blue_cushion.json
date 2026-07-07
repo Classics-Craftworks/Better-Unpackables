@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "minecraft:blue_cushion"
+    ],
+    "result": {
+        "id": "minecraft:blue_wool_slab",
+        "count": 3
+    }
+}

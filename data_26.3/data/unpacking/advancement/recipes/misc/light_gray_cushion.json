@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "unpacking:light_gray_cushion"
+        ]
+    },
+    "criteria": {
+        "has_cushion": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:light_gray_cushion"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "unpacking:light_gray_cushion"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_cushion",
+            "has_recipe"
+        ]
+    ]
+}
