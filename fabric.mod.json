@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "better_unpackables",
-	"version": "4.3.0-beta",
+	"version": "4.3.0",
 	"name": "Better Unpackables",
 	"description": "Adds some quality-of-life unpacking recipes to the game.",
 	"authors": [
@@ -18,6 +18,6 @@
 	"environment": "*",
 	"depends": {
 		"fabric-resource-loader-v1": "*",
-		"minecraft": ">=26.1 <26.4"
+		"minecraft": ">=26.1 <26.3"
   }
 }
