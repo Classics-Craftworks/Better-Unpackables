@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "minecraft:sulfur"
+    ],
+    "result": {
+        "id": "minecraft:sulfur_spike",
+        "count": 4
+    }
+}

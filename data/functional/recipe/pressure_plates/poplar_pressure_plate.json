@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "group": "planks",
+    "ingredients": [
+        "minecraft:poplar_pressure_plate"
+    ],
+    "result": {
+        "id": "minecraft:poplar_planks",
+        "count": 2
+    }
+}
