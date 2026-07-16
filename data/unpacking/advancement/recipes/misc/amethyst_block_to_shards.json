@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:amethyst_block_to_shards"
+                "recipes": "unpacking:amethyst_block_to_shards"
             }
         }
     },

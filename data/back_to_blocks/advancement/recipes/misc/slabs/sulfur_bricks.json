@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:recipes/root",
 	"criteria": {
-		"has_slabs": {
+		"has_slab": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
@@ -14,13 +14,13 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "back_to_blocks:slabs/sulfur_bricks"
+				"recipes": "back_to_blocks:slabs/sulfur_bricks"
 			}
 		}
 	},
 	"requirements": [
 		[
-			"has_slabs",
+			"has_slab",
 			"has_the_recipe"
 		]
 	],

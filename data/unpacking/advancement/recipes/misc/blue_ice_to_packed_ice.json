@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:blue_ice_to_packed_ice"
+                "recipes": "unpacking:blue_ice_to_packed_ice"
             }
         }
     },

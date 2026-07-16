@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:nether_brick_block_to_nether_brick"
+                "recipes": "unpacking:nether_brick_block_to_nether_brick"
             }
         }
     },

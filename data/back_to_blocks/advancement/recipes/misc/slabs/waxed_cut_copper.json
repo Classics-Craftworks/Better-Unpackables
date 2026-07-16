@@ -14,7 +14,7 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "back_to_blocks:slabs/waxed_cut_copper"
+				"recipes": "back_to_blocks:slabs/waxed_cut_copper"
 			}
 		}
 	},

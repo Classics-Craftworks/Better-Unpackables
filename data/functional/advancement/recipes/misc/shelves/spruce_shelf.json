@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:shelves/spruce_shelf"
+                "recipes": "functional:shelves/spruce_shelf"
             }
         }
     },

@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:music_disc_5_to_disc_fragments"
+                "recipes": "unpacking:music_disc_5_to_disc_fragments"
             }
         }
     },

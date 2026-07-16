@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:vehicles/spruce_boat"
+                "recipes": "functional:vehicles/spruce_boat"
             }
         }
     },

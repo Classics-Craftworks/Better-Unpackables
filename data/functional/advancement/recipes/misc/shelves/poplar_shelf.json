@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:shelves/poplar_shelf"
+                "recipes": "functional:shelves/poplar_shelf"
             }
         }
     },

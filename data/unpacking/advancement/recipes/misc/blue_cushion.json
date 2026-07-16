@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:blue_cushion"
+                "recipes": "unpacking:blue_cushion"
             }
         }
     },

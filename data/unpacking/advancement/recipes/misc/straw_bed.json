@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:straw_bed"
+                "recipes": "unpacking:straw_bed"
             }
         }
     },

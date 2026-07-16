@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:stone_to_cobble"
+                "recipes": "unpacking:stone_to_cobble"
             }
         }
     },

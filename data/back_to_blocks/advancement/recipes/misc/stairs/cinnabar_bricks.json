@@ -14,7 +14,7 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "back_to_blocks:stairs/cinnabar_bricks"
+				"recipes": "back_to_blocks:stairs/cinnabar_bricks"
 			}
 		}
 	},

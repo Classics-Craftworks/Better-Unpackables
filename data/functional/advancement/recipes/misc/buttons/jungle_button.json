@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:buttons/jungle_button"
+                "recipes": "functional:buttons/jungle_button"
             }
         }
     },

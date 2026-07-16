@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:resin_brick_block_to_resin_brick"
+                "recipes": "unpacking:resin_brick_block_to_resin_brick"
             }
         }
     },

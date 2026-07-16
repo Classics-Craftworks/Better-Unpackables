@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:vehicles/dark_oak_boat"
+                "recipes": "functional:vehicles/dark_oak_boat"
             }
         }
     },

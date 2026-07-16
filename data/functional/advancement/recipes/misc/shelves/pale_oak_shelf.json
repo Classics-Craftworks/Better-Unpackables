@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:shelves/pale_oak_shelf"
+                "recipes": "functional:shelves/pale_oak_shelf"
             }
         }
     },

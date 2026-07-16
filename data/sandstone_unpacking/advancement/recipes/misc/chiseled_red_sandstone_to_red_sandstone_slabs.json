@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "sandstone_unpacking:chiseled_red_sandstone_to_red_sandstone_slabs"
+                "recipes": "sandstone_unpacking:chiseled_red_sandstone_to_red_sandstone_slabs"
             }
         }
     },

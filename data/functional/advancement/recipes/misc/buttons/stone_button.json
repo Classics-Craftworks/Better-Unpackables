@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:buttons/stone_button"
+                "recipes": "functional:buttons/stone_button"
             }
         }
     },

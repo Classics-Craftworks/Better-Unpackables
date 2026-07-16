@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:doors/cherry_door"
+                "recipes": "functional:doors/cherry_door"
             }
         }
     },

@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:doors/iron_door"
+                "recipes": "functional:doors/iron_door"
             }
         }
     },

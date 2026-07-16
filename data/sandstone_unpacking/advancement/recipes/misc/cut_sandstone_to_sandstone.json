@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "sandstone_unpacking:cut_sandstone_to_sandstone"
+                "recipes": "sandstone_unpacking:cut_sandstone_to_sandstone"
             }
         }
     },

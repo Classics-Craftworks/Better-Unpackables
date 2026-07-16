@@ -14,7 +14,7 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "back_to_blocks:slabs/polished_blackstone"
+				"recipes": "back_to_blocks:slabs/polished_blackstone"
 			}
 		}
 	},

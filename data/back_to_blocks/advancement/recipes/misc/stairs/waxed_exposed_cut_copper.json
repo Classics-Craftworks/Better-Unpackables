@@ -14,7 +14,7 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "back_to_blocks:stairs/waxed_exposed_cut_copper"
+				"recipes": "back_to_blocks:stairs/waxed_exposed_cut_copper"
 			}
 		}
 	},

@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:pressure_plates/cherry_pressure_plate"
+                "recipes": "functional:pressure_plates/cherry_pressure_plate"
             }
         }
     },

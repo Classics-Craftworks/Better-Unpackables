@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:buttons/pale_oak_button"
+                "recipes": "functional:buttons/pale_oak_button"
             }
         }
     },

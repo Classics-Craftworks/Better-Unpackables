@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:deepslate_to_cobbled"
+                "recipes": "unpacking:deepslate_to_cobbled"
             }
         }
     },

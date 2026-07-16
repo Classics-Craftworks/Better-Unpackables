@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:doors/poplar_door"
+                "recipes": "functional:doors/poplar_door"
             }
         }
     },

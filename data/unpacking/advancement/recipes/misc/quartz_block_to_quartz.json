@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:quartz_block_to_quartz"
+                "recipes": "unpacking:quartz_block_to_quartz"
             }
         }
     },

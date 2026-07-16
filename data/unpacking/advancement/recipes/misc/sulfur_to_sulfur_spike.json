@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:sulfur_to_sulfur_spike"
+                "recipes": "unpacking:sulfur_to_sulfur_spike"
             }
         }
     },

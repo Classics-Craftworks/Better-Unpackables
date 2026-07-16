@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:vehicles/bamboo_raft"
+                "recipes": "functional:vehicles/bamboo_raft"
             }
         }
     },

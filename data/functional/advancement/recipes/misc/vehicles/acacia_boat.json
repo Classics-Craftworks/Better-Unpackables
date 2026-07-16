@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:vehicles/acacia_boat"
+                "recipes": "functional:vehicles/acacia_boat"
             }
         }
     },

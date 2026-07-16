@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:dripstone_block_to_pointed_dripstone"
+                "recipes": "unpacking:dripstone_block_to_pointed_dripstone"
             }
         }
     },

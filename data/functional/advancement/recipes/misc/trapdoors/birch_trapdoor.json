@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:trapdoors/birch_trapdoor"
+                "recipes": "functional:trapdoors/birch_trapdoor"
             }
         }
     },

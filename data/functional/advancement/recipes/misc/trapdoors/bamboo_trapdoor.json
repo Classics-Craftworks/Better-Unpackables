@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "functional:trapdoors/bamboo_trapdoor"
+                "recipes": "functional:trapdoors/bamboo_trapdoor"
             }
         }
     },

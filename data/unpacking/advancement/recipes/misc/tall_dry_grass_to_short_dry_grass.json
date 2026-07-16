@@ -19,7 +19,7 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "unpacking:tall_dry_grass_to_short_dry_grass"
+                "recipes": "unpacking:tall_dry_grass_to_short_dry_grass"
             }
         }
     },
