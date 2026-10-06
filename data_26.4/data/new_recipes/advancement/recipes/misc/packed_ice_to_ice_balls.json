@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "new_recipes:packed_ice_to_ice_balls"
+        ]
+    },
+    "criteria": {
+        "has_packed_ice": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:packed_ice"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipes": "new_recipes:packed_ice_to_ice_balls"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_packed_ice",
+            "has_recipe"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "new_recipes:ice_to_ice_crystals"
+        ]
+    },
+    "criteria": {
+        "has_ice": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:ice"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipes": "new_recipes:ice_to_ice_crystals"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_ice",
+            "has_recipe"
+        ]
+    ]
+}
