@@ -1,8 +1,8 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "category": "misc",
+    "category": "building",
     "ingredients": [
-            "minecraft:ice"
+            "minecraft:brittle_ice"
     ],
     "result": {
         "id": "minecraft:icicle",

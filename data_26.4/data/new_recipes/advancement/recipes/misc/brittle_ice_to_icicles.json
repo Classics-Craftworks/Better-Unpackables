@@ -2,16 +2,16 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
         "recipes": [
-            "new_recipes:ice_to_icicles"
+            "new_recipes:brittle_ice_to_icicles"
         ]
     },
     "criteria": {
-        "has_ice": {
+        "has_brittle_ice": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "items": "minecraft:ice"
+                        "items": "minecraft:brittle_ice"
                     }
                 ]
             }
@@ -19,13 +19,13 @@
         "has_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipes": "new_recipes:ice_to_icicles"
+                "recipes": "new_recipes:brittle_ice_to_icicles"
             }
         }
     },
     "requirements": [
         [
-            "has_ice",
+            "has_brittle_ice",
             "has_recipe"
         ]
     ]

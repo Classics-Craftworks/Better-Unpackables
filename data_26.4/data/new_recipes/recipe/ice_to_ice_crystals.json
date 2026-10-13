@@ -1,13 +1,9 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "pattern": [
-        "I",
-        "I"
+    "type": "crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        "minecraft:ice"
     ],
-    "key": {
-        "I": "minecraft:ice"
-    },
     "result": {
         "id": "minecraft:ice_crystal",
         "count": 4
