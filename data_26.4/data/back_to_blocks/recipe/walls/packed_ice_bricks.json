@@ -1,0 +1,13 @@
+{
+	"result": {
+		"id": "minecraft:packed_ice_bricks",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:packed_ice_brick_wall",
+		"minecraft:packed_ice_brick_wall",
+		"minecraft:packed_ice_brick_wall"
+	],
+	"group": "walls_to_block"
+}

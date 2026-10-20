@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_walls": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:packed_ice_bricks"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipes": "back_to_blocks:walls/packed_ice_bricks"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_walls",
+			"has_the_recipe"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"back_to_blocks:walls/packed_ice_bricks"
+		]
+	}
+}
