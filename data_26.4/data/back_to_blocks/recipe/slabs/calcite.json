@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:calcite",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:calcite_slab"
+	},
+	"group": "slabs_to_blocks"
+}

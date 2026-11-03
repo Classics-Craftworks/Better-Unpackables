@@ -1,0 +1,13 @@
+{
+	"result": {
+		"id": "minecraft:polished_calcite",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:polished_calcite_wall",
+		"minecraft:polished_calcite_wall",
+		"minecraft:polished_calcite_wall"
+	],
+	"group": "walls_to_block"
+}
