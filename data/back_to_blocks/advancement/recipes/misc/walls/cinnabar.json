@@ -6,7 +6,7 @@
 			"conditions": {
 				"items": [
 					{
-						"items": "minecraft:cinnabar"
+						"items": "minecraft:cinnabar_wall"
 					}
 				]
 			}

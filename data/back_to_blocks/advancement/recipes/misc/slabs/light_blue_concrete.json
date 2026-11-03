@@ -6,7 +6,7 @@
 			"conditions": {
 				"items": [
 					{
-						"items": "minecraft:light_blue_concrete"
+						"items": "minecraft:light_blue_concrete_slab"
 					}
 				]
 			}

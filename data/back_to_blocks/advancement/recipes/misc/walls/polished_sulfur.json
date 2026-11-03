@@ -6,7 +6,7 @@
 			"conditions": {
 				"items": [
 					{
-						"items": "minecraft:polished_sulfur"
+						"items": "minecraft:polished_sulfur_wall"
 					}
 				]
 			}

@@ -6,7 +6,7 @@
 			"conditions": {
 				"items": [
 					{
-						"items": "minecraft:poplar_planks"
+						"items": "minecraft:poplar_stairs"
 					}
 				]
 			}
